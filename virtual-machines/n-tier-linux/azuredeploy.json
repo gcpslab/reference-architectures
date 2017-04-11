@@ -4,7 +4,7 @@
   "parameters": {
     "templateRootUri": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/pjshi23/template-building-blocks/v1.0.0/",
+      "defaultValue": "https://raw.githubusercontent.com/pjshi23/template-building-blocks/master/",
       "metadata": {
         "description": "Root path for templates"
       }
