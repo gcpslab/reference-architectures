@@ -46,7 +46,7 @@
       "value": {
         "namePrefix": "ra-ntier-web",
         "computerNamePrefix": "web",
-        "size": "Standard_DS1",
+        "size": "Standard_D1",
         "adminUsername": "testuser",
         "adminPassword": "AweS0me@PW",
         "osType": "linux",
@@ -108,8 +108,8 @@
     },
     "buildingBlockSettings": {
       "value": {
-        "storageAccountsCount": 3,
-        "vmCount": 3,
+        "storageAccountsCount": 2,
+        "vmCount": 2,
         "vmStartIndex": 1
       }
     }

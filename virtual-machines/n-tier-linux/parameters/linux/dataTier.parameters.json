@@ -6,7 +6,7 @@
       "value": {
         "namePrefix": "ra-ntier-data",
         "computerNamePrefix": "data",
-        "size": "Standard_DS1",
+        "size": "Standard_D1",
         "adminUsername": "testuser",
         "adminPassword": "AweS0me@PW",
         "osType": "linux",
@@ -66,8 +66,8 @@
     },
     "buildingBlockSettings": {
       "value": {
-        "storageAccountsCount": 6,
-        "vmCount": 6,
+        "storageAccountsCount": 2,
+        "vmCount": 2,
         "vmStartIndex": 1
       }
     }
