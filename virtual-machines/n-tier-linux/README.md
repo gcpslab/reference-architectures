@@ -11,6 +11,17 @@ this template will create a three tier deployment. you may find the diagram as b
 
 I have changed the deployment script of business tier and DB cluster.
 
+USAGE:
+
+please click deploy to azure and then click ok for parameter:
+
+create new resource group with name  "ra-ntier-cassandra-rg"
+
+it's hard coded so please do name it ra-ntier-cassandra-rg. i will change it in near future.
+
+
+EXPLAINATION:
+
 you can customize your own linux script to install mysql cluster/other db cluster.
 
 and you are welcome to bring any middleware/DAO tier into business tier.
